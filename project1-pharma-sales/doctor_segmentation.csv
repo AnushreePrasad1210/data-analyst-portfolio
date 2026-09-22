@@ -1,0 +1,201 @@
+doctor_id,doctor_name,specialization,total_orders,total_revenue_generated
+135,Dr. Dana Jennings,Pulmonologist,297,88098209.61
+43,Dr. Jamie Robertson,General Physician,299,78181024.67
+4,Dr. Timothy Reynolds,General Physician,281,77144978.38
+72,Dr. William Gutierrez,Pulmonologist,291,75080064.5
+78,Dr. Donna Watson,Endocrinologist,272,74891148.1
+200,Dr. David Williams,General Physician,256,74290108.52
+158,Dr. Michael Peterson,General Physician,277,73927676.41
+184,Dr. Kevin Benson,Endocrinologist,252,73618930.62
+140,Dr. Trevor Ross,Cardiologist,261,73568566.83
+62,Dr. Laurie Pierce,Orthopedic,270,73451920.23
+104,Dr. Robin Brock,Neurologist,255,73435020.7
+9,Dr. Mary Snow,Cardiologist,284,73378396.52
+128,Dr. Danielle Rodriguez,Neurologist,263,73353917.59
+27,Dr. Kyle Kaiser,Cardiologist,285,73284652.68
+149,Dr. Craig Harris,Endocrinologist,259,73197531.02
+40,Dr. Hannah Campbell,General Physician,251,73087069.64
+110,Dr. Perry Black,Endocrinologist,246,73028196.65
+94,Dr. Jenna Ramsey,Endocrinologist,269,72660295.03
+36,Dr. Michelle Johnson,Dermatologist,267,72652545.5
+150,Dr. Amanda Rose MD,Orthopedic,244,72214551.39
+187,Dr. Shane Greene,Neurologist,286,72214199.24
+172,Dr. Marc Glenn,General Physician,286,71932371.52
+166,Dr. Ronald Young,Pulmonologist,267,71851765.54
+193,Dr. Jean Brown,General Physician,254,71392796.44
+61,Dr. Wyatt Cortez,Cardiologist,264,71242533.81
+22,Dr. Amanda Lloyd,Neurologist,261,71201454.87
+51,Dr. Brandy Moreno,General Physician,243,71032174.94
+103,Dr. Laura Garner,Cardiologist,278,70781764.96
+26,Dr. Robert Gomez,Pulmonologist,263,70771950.46
+197,Dr. Kevin Lee,General Physician,280,70669748.13
+48,Dr. Eric Howe,Neurologist,278,70420314.38
+125,Dr. Scott Pineda,Dermatologist,259,70397184.18
+41,Dr. Jennifer Snow,Orthopedic,259,70323137.29
+38,Dr. Stephen Wolf,Cardiologist,272,70221590.47
+33,Dr. Terri Roberts,General Physician,269,70216668.65
+91,Dr. Shannon Turner,Pulmonologist,274,70019416.17
+130,Dr. Cody Mccoy,Dermatologist,255,69750988.96
+145,Dr. William Morse,Cardiologist,273,69605922.35
+141,Dr. Sherri Gray,Neurologist,253,69603249.59
+111,Dr. Scott Bond,Cardiologist,257,69551185.34
+77,Dr. David Anderson,General Physician,277,69495038.83
+88,Dr. Lauren James,Neurologist,277,69244975.87
+131,Dr. Andrea Bass,General Physician,254,69158991.74
+196,Dr. Gabriel Jones,Cardiologist,270,69122003.08
+47,Dr. Rebecca Nicholson,Cardiologist,266,68805987.45
+68,Dr. Bobby Walker,General Physician,250,68687732.64
+85,Dr. Joshua Wilson,Pulmonologist,245,68435494.79
+75,Dr. Charles Moore,Orthopedic,250,68421249.01
+8,Dr. Samuel Powers,Cardiologist,265,68328810.33
+156,Dr. Darren Hall,Pulmonologist,263,68274118.39
+160,Dr. Michael Cardenas,Cardiologist,272,68264652.53
+60,Dr. Glenn Lawrence,Pulmonologist,250,68167135.33
+1,Dr. Valerie Jensen,Cardiologist,255,68117764.51
+183,Dr. Dennis Turner,Cardiologist,259,68090232.41
+23,Dr. Mary Cruz,Cardiologist,256,68046401.14
+29,Dr. Olivia Herrera MD,Endocrinologist,242,68027236.35
+19,Dr. Paul Oconnor,General Physician,263,67930784.55
+182,Dr. Lisa Michael,Cardiologist,272,67827850.17
+176,Dr. Phillip Lowery,General Physician,246,67806712.18
+39,Dr. Virginia Watson,General Physician,249,67572225.07000001
+129,Dr. Paul Duarte,Cardiologist,262,67400878.98
+122,Dr. Travis Hernandez,Cardiologist,262,67376739.96
+37,Dr. Amber Ross,General Physician,273,66991529.93
+155,Dr. Felicia Vargas,General Physician,265,66919756.15
+105,Dr. Morgan Boone,General Physician,250,66901749.21
+52,Dr. Jessica Chang,Orthopedic,246,66865281.88
+86,Dr. Kent Freeman,Cardiologist,259,66822944.43
+102,Dr. Timothy French,Cardiologist,264,66804374.92
+69,Dr. Eric Giles,Endocrinologist,265,66773656.08
+10,Dr. Cynthia Anderson,Cardiologist,258,66746431.01
+79,Dr. Jocelyn Charles,Cardiologist,270,66733006.38
+98,Dr. Christian Shelton,Orthopedic,245,66691396.08
+116,Dr. Isaac Smith,General Physician,273,66678757.05
+73,Dr. Jose Crawford,General Physician,265,66498844.8
+113,Dr. Brady Padilla,Orthopedic,253,66460603.87
+96,Dr. Andrew Hahn,Cardiologist,258,66321913.95
+53,Dr. Randy Warner,Cardiologist,262,66279299.07
+18,Dr. Ashley Miller,Orthopedic,264,66253380.57
+99,Dr. Robin Mora,General Physician,263,66248107.14
+198,Dr. David Wise,Pulmonologist,241,66241129.69
+101,Dr. Abigail Miller,General Physician,248,66237125.26
+121,Dr. Thomas Nelson,General Physician,265,66084804.79
+144,Dr. Matthew Sullivan,Cardiologist,248,66022491.28
+97,Dr. Shelby Gentry,Neurologist,237,65989940.55
+90,Dr. Frank Arnold,Endocrinologist,266,65942065.77
+112,Dr. Emily Rush,General Physician,242,65930274.77
+165,Dr. Brian Singh,General Physician,268,65928129.56
+115,Dr. April Collins,Dermatologist,247,65851631.36
+136,Dr. Alexander Ferguson,Endocrinologist,261,65609224.7
+163,Dr. Laurie White,Cardiologist,258,65499864.03
+42,Dr. John Elliott,Orthopedic,247,65198871.95
+13,Dr. Justin Cruz,Cardiologist,259,65069308.12
+109,Dr. Connie Miller,General Physician,259,64954482.6
+173,Dr. Jasmine Chavez,Neurologist,256,64707513.48
+84,Dr. Benjamin Powell,Cardiologist,258,64670211.72
+124,Dr. Jordan Adams,Endocrinologist,259,64596201.49
+2,Dr. Ashley Holt,Cardiologist,282,64502852.38
+180,Dr. Stanley Martinez,Pulmonologist,257,64471588.94
+152,Dr. Sandra Haney,General Physician,261,64401638.77
+95,Dr. Joel Murray,Cardiologist,230,64374283.72
+189,Dr. Annette Weaver,Pulmonologist,254,64357714.3
+154,Dr. Edward Duffy,Neurologist,240,64348051.43
+50,Dr. Kevin Thomas,Pulmonologist,261,64315088.83
+161,Dr. Heather Meadows,Cardiologist,250,64306707.58
+199,Dr. Kayla Taylor,Endocrinologist,239,64269086.16
+16,Dr. Melissa Henderson,General Physician,246,64162248.25
+7,Dr. Jessica Mcgee,General Physician,262,64092935.97
+93,Dr. Justin King,Cardiologist,251,64023754.68
+138,Dr. Frank Foster,Cardiologist,246,63872834.72
+117,Dr. Rebecca Roman,Neurologist,243,63863615.7
+120,Dr. Brian Pacheco,Cardiologist,244,63756812.77
+179,Dr. Samantha Ford,Endocrinologist,242,63340865.06
+148,Dr. John Andrews,General Physician,239,63314183.43
+87,Dr. Patricia Tucker,Cardiologist,263,63267502.92
+59,Dr. Gabrielle Johnson,Cardiologist,261,63091544.7
+56,Dr. Ashley Campbell,Endocrinologist,241,63019023.18
+134,Dr. Amber Burns,Endocrinologist,242,62992619.32
+92,Dr. Charles Lloyd,Pulmonologist,266,62946660.67
+24,Dr. Joseph Russell,Endocrinologist,236,62805620.88
+168,Dr. Thomas Nelson,Cardiologist,252,62695428.91
+25,Dr. Michelle Gross,Neurologist,247,62691173.98
+143,Dr. David Jones,Endocrinologist,258,62637231.92
+127,Dr. Kelly Smith,Pulmonologist,241,62542284.26
+177,Dr. Timothy Jordan,Endocrinologist,241,62436515.31
+167,Dr. Cindy Bradley MD,Endocrinologist,235,62366037.910000004
+11,Dr. April Graham,Cardiologist,252,62351881.71
+65,Dr. Brent Lewis,Neurologist,245,62300874.37
+194,Dr. Bobby Mullen,Cardiologist,248,62271688.35
+174,Dr. Michael Ritter,Orthopedic,240,62108385.66
+31,Dr. Michelle Moore,Pulmonologist,249,62065792.43
+164,Dr. Veronica Lewis,Endocrinologist,241,62020596.27
+151,Dr. Jessica Berry,Orthopedic,251,62010407.02
+191,Dr. Frank Munoz,Endocrinologist,250,61956868.63
+14,Dr. Mary Fisher,Endocrinologist,261,61903496.8
+54,Dr. Mr. Michael Garcia,Cardiologist,241,61864707.77
+185,Dr. Brian Phillips,General Physician,230,61804535.71
+49,Dr. Anthony Garrett,Cardiologist,247,61740160.64
+137,Dr. Gary Russell,Cardiologist,250,61628649.92
+63,Dr. Ryan Morales,Neurologist,242,61627112.019999996
+57,Dr. Mr. Samuel Thomas,Neurologist,230,61572576.22
+186,Dr. Maria Ward,General Physician,227,61548656.63
+80,Dr. Cathy Miller,General Physician,241,61514534.54
+66,Dr. Ricky Campbell,Pulmonologist,244,61422187.67
+192,Dr. Amy Johnson,Cardiologist,236,61412659.09
+32,Dr. Mark Spencer,General Physician,233,61247495.3
+70,Dr. Mrs. Valerie Ramirez,General Physician,253,61196580.03
+114,Dr. Mark Wallace,Endocrinologist,239,61071844.98
+159,Dr. Crystal Duke,Cardiologist,262,61062607.75
+132,Dr. Christopher Blake,Orthopedic,243,61050210.81
+5,Dr. Tyler Welch,General Physician,252,61013213.04
+142,Dr. Lauren Stone,Endocrinologist,255,61012149.93
+67,Dr. Patricia Brown,Orthopedic,250,60821137.76
+108,Dr. Paula Roberts,Endocrinologist,260,60722071.27
+106,Dr. Matthew Greene,Neurologist,246,60676154.11
+3,Dr. Emily Crawford,Dermatologist,255,60660834.32
+119,Dr. Judy Lewis,Endocrinologist,245,60580318.18
+55,Dr. Justin Rodriguez DDS,Cardiologist,246,60435762.64
+139,Dr. Dylan Brown,Endocrinologist,236,60220173.01
+20,Dr. Morgan Greene,Dermatologist,251,60145374.53
+76,Dr. Lynn Brown,Cardiologist,255,59933764.02
+34,Dr. Corey Clark,Pulmonologist,228,59888667.72
+171,Dr. Shannon Booker,Dermatologist,247,59845369.98
+157,Dr. Elizabeth Cunningham,Orthopedic,255,59671421.04
+181,Dr. Alexander Terry,Endocrinologist,230,59632488.33
+178,Dr. Justin Garcia,Cardiologist,237,59429630.25
+153,Dr. Alexander Weeks,General Physician,239,59268326.04
+6,Dr. Donald Sanchez,Orthopedic,242,59179882.93
+81,Dr. Justin Williams,Cardiologist,246,59015564.14
+74,Dr. Brett Obrien,General Physician,256,58778518.57
+71,Dr. Keith Nixon,Endocrinologist,232,58740485.39
+28,Dr. Mary Reyes,General Physician,232,58352741.660000004
+82,Dr. Thomas Rosales,Dermatologist,224,58058005.0
+147,Dr. Travis Hubbard,General Physician,221,58010467.69
+175,Dr. Denise Gonzalez,Neurologist,244,57899667.9
+195,Dr. Mary Brady,Neurologist,238,57836000.46
+15,Dr. Shawn Torres,General Physician,236,57667245.58
+46,Dr. Hector Williams,Cardiologist,229,57320046.29
+190,Dr. Troy Aguilar,Pulmonologist,233,57023417.55
+107,Dr. Molly Ortiz,Cardiologist,232,57006907.47
+89,Dr. Bradley Taylor,Orthopedic,240,56683856.58
+118,Dr. Jody Phillips,Endocrinologist,232,56488006.89
+17,Dr. Kathy Mcgee,Endocrinologist,237,56473866.49
+58,Dr. Brenda Brooks,General Physician,229,56190044.42
+126,Dr. Luke Carpenter,General Physician,242,56069611.160000004
+188,Dr. Matthew Alvarez,Neurologist,240,56033423.17
+133,Dr. David Jones,Cardiologist,223,55974931.27
+45,Dr. John Garcia,General Physician,230,55928749.38
+35,Dr. Albert Black,Neurologist,237,55897993.54
+30,Dr. Joseph Smith,Pulmonologist,226,55852999.55
+21,Dr. Mr. Jonathan Garcia,Cardiologist,233,55591299.15
+44,Dr. Jaime Oneill,Orthopedic,214,54892045.71
+12,Dr. Andrew Moore,Cardiologist,228,54446091.92
+170,Dr. Kristin Bailey,Endocrinologist,230,54262895.97
+169,Dr. Nathan Hickman Jr.,General Physician,229,54162674.44
+162,Dr. Nicole Collins,General Physician,236,54152184.23
+123,Dr. William Greene,Orthopedic,216,53543235.69
+64,Dr. Joseph Mendoza,Cardiologist,233,53517327.17
+83,Dr. Scott Khan,Cardiologist,218,53474704.63
+146,Dr. John Molina,Pulmonologist,212,50930910.09
+100,Dr. Lindsey Wright,Pulmonologist,211,49460876.11

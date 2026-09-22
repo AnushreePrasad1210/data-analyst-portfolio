@@ -1,0 +1,201 @@
+doctor_id,doctor_name,specialization,affiliated_hospital
+1,Dr. Valerie Jensen,Cardiologist,Sunrise Multispeciality
+2,Dr. Ashley Holt,Cardiologist,Apollo Care Hospital
+3,Dr. Emily Crawford,Dermatologist,City General Hospital
+4,Dr. Timothy Reynolds,General Physician,Lakeview Medical Center
+5,Dr. Tyler Welch,General Physician,Sunrise Multispeciality
+6,Dr. Donald Sanchez,Orthopedic,Metro Health Institute
+7,Dr. Jessica Mcgee,General Physician,Metro Health Institute
+8,Dr. Samuel Powers,Cardiologist,City General Hospital
+9,Dr. Mary Snow,Cardiologist,Apollo Care Hospital
+10,Dr. Cynthia Anderson,Cardiologist,Sunrise Multispeciality
+11,Dr. April Graham,Cardiologist,Sunrise Multispeciality
+12,Dr. Andrew Moore,Cardiologist,Apollo Care Hospital
+13,Dr. Justin Cruz,Cardiologist,Metro Health Institute
+14,Dr. Mary Fisher,Endocrinologist,City General Hospital
+15,Dr. Shawn Torres,General Physician,City General Hospital
+16,Dr. Melissa Henderson,General Physician,Fortis Wellness Center
+17,Dr. Kathy Mcgee,Endocrinologist,Metro Health Institute
+18,Dr. Ashley Miller,Orthopedic,Sunrise Multispeciality
+19,Dr. Paul Oconnor,General Physician,Fortis Wellness Center
+20,Dr. Morgan Greene,Dermatologist,Metro Health Institute
+21,Dr. Mr. Jonathan Garcia,Cardiologist,Fortis Wellness Center
+22,Dr. Amanda Lloyd,Neurologist,Metro Health Institute
+23,Dr. Mary Cruz,Cardiologist,Sunrise Multispeciality
+24,Dr. Joseph Russell,Endocrinologist,Fortis Wellness Center
+25,Dr. Michelle Gross,Neurologist,City General Hospital
+26,Dr. Robert Gomez,Pulmonologist,Fortis Wellness Center
+27,Dr. Kyle Kaiser,Cardiologist,Metro Health Institute
+28,Dr. Mary Reyes,General Physician,Apollo Care Hospital
+29,Dr. Olivia Herrera MD,Endocrinologist,Lakeview Medical Center
+30,Dr. Joseph Smith,Pulmonologist,Fortis Wellness Center
+31,Dr. Michelle Moore,Pulmonologist,City General Hospital
+32,Dr. Mark Spencer,General Physician,Sunrise Multispeciality
+33,Dr. Terri Roberts,General Physician,Metro Health Institute
+34,Dr. Corey Clark,Pulmonologist,Lakeview Medical Center
+35,Dr. Albert Black,Neurologist,Sunrise Multispeciality
+36,Dr. Michelle Johnson,Dermatologist,Lakeview Medical Center
+37,Dr. Amber Ross,General Physician,Lakeview Medical Center
+38,Dr. Stephen Wolf,Cardiologist,City General Hospital
+39,Dr. Virginia Watson,General Physician,Metro Health Institute
+40,Dr. Hannah Campbell,General Physician,Sunrise Multispeciality
+41,Dr. Jennifer Snow,Orthopedic,Apollo Care Hospital
+42,Dr. John Elliott,Orthopedic,Fortis Wellness Center
+43,Dr. Jamie Robertson,General Physician,Apollo Care Hospital
+44,Dr. Jaime Oneill,Orthopedic,Fortis Wellness Center
+45,Dr. John Garcia,General Physician,Sunrise Multispeciality
+46,Dr. Hector Williams,Cardiologist,Sunrise Multispeciality
+47,Dr. Rebecca Nicholson,Cardiologist,Lakeview Medical Center
+48,Dr. Eric Howe,Neurologist,Apollo Care Hospital
+49,Dr. Anthony Garrett,Cardiologist,Lakeview Medical Center
+50,Dr. Kevin Thomas,Pulmonologist,Fortis Wellness Center
+51,Dr. Brandy Moreno,General Physician,Sunrise Multispeciality
+52,Dr. Jessica Chang,Orthopedic,City General Hospital
+53,Dr. Randy Warner,Cardiologist,Apollo Care Hospital
+54,Dr. Mr. Michael Garcia,Cardiologist,Lakeview Medical Center
+55,Dr. Justin Rodriguez DDS,Cardiologist,Fortis Wellness Center
+56,Dr. Ashley Campbell,Endocrinologist,Apollo Care Hospital
+57,Dr. Mr. Samuel Thomas,Neurologist,City General Hospital
+58,Dr. Brenda Brooks,General Physician,Apollo Care Hospital
+59,Dr. Gabrielle Johnson,Cardiologist,Apollo Care Hospital
+60,Dr. Glenn Lawrence,Pulmonologist,Sunrise Multispeciality
+61,Dr. Wyatt Cortez,Cardiologist,Fortis Wellness Center
+62,Dr. Laurie Pierce,Orthopedic,Sunrise Multispeciality
+63,Dr. Ryan Morales,Neurologist,Sunrise Multispeciality
+64,Dr. Joseph Mendoza,Cardiologist,Sunrise Multispeciality
+65,Dr. Brent Lewis,Neurologist,City General Hospital
+66,Dr. Ricky Campbell,Pulmonologist,Lakeview Medical Center
+67,Dr. Patricia Brown,Orthopedic,Lakeview Medical Center
+68,Dr. Bobby Walker,General Physician,Lakeview Medical Center
+69,Dr. Eric Giles,Endocrinologist,Lakeview Medical Center
+70,Dr. Mrs. Valerie Ramirez,General Physician,Sunrise Multispeciality
+71,Dr. Keith Nixon,Endocrinologist,Sunrise Multispeciality
+72,Dr. William Gutierrez,Pulmonologist,Lakeview Medical Center
+73,Dr. Jose Crawford,General Physician,Lakeview Medical Center
+74,Dr. Brett Obrien,General Physician,Lakeview Medical Center
+75,Dr. Charles Moore,Orthopedic,Lakeview Medical Center
+76,Dr. Lynn Brown,Cardiologist,Apollo Care Hospital
+77,Dr. David Anderson,General Physician,City General Hospital
+78,Dr. Donna Watson,Endocrinologist,Apollo Care Hospital
+79,Dr. Jocelyn Charles,Cardiologist,Sunrise Multispeciality
+80,Dr. Cathy Miller,General Physician,Sunrise Multispeciality
+81,Dr. Justin Williams,Cardiologist,Apollo Care Hospital
+82,Dr. Thomas Rosales,Dermatologist,Fortis Wellness Center
+83,Dr. Scott Khan,Cardiologist,Metro Health Institute
+84,Dr. Benjamin Powell,Cardiologist,Fortis Wellness Center
+85,Dr. Joshua Wilson,Pulmonologist,City General Hospital
+86,Dr. Kent Freeman,Cardiologist,Apollo Care Hospital
+87,Dr. Patricia Tucker,Cardiologist,Metro Health Institute
+88,Dr. Lauren James,Neurologist,Metro Health Institute
+89,Dr. Bradley Taylor,Orthopedic,Metro Health Institute
+90,Dr. Frank Arnold,Endocrinologist,City General Hospital
+91,Dr. Shannon Turner,Pulmonologist,Apollo Care Hospital
+92,Dr. Charles Lloyd,Pulmonologist,Sunrise Multispeciality
+93,Dr. Justin King,Cardiologist,Metro Health Institute
+94,Dr. Jenna Ramsey,Endocrinologist,Sunrise Multispeciality
+95,Dr. Joel Murray,Cardiologist,Apollo Care Hospital
+96,Dr. Andrew Hahn,Cardiologist,Metro Health Institute
+97,Dr. Shelby Gentry,Neurologist,Metro Health Institute
+98,Dr. Christian Shelton,Orthopedic,Apollo Care Hospital
+99,Dr. Robin Mora,General Physician,Lakeview Medical Center
+100,Dr. Lindsey Wright,Pulmonologist,Fortis Wellness Center
+101,Dr. Abigail Miller,General Physician,Sunrise Multispeciality
+102,Dr. Timothy French,Cardiologist,Fortis Wellness Center
+103,Dr. Laura Garner,Cardiologist,City General Hospital
+104,Dr. Robin Brock,Neurologist,Fortis Wellness Center
+105,Dr. Morgan Boone,General Physician,Metro Health Institute
+106,Dr. Matthew Greene,Neurologist,City General Hospital
+107,Dr. Molly Ortiz,Cardiologist,City General Hospital
+108,Dr. Paula Roberts,Endocrinologist,City General Hospital
+109,Dr. Connie Miller,General Physician,City General Hospital
+110,Dr. Perry Black,Endocrinologist,Sunrise Multispeciality
+111,Dr. Scott Bond,Cardiologist,Apollo Care Hospital
+112,Dr. Emily Rush,General Physician,City General Hospital
+113,Dr. Brady Padilla,Orthopedic,Sunrise Multispeciality
+114,Dr. Mark Wallace,Endocrinologist,Apollo Care Hospital
+115,Dr. April Collins,Dermatologist,Fortis Wellness Center
+116,Dr. Isaac Smith,General Physician,Apollo Care Hospital
+117,Dr. Rebecca Roman,Neurologist,Fortis Wellness Center
+118,Dr. Jody Phillips,Endocrinologist,City General Hospital
+119,Dr. Judy Lewis,Endocrinologist,Lakeview Medical Center
+120,Dr. Brian Pacheco,Cardiologist,Apollo Care Hospital
+121,Dr. Thomas Nelson,General Physician,Lakeview Medical Center
+122,Dr. Travis Hernandez,Cardiologist,Lakeview Medical Center
+123,Dr. William Greene,Orthopedic,Sunrise Multispeciality
+124,Dr. Jordan Adams,Endocrinologist,Lakeview Medical Center
+125,Dr. Scott Pineda,Dermatologist,Lakeview Medical Center
+126,Dr. Luke Carpenter,General Physician,City General Hospital
+127,Dr. Kelly Smith,Pulmonologist,City General Hospital
+128,Dr. Danielle Rodriguez,Neurologist,Apollo Care Hospital
+129,Dr. Paul Duarte,Cardiologist,Fortis Wellness Center
+130,Dr. Cody Mccoy,Dermatologist,Lakeview Medical Center
+131,Dr. Andrea Bass,General Physician,Fortis Wellness Center
+132,Dr. Christopher Blake,Orthopedic,Lakeview Medical Center
+133,Dr. David Jones,Cardiologist,Apollo Care Hospital
+134,Dr. Amber Burns,Endocrinologist,Fortis Wellness Center
+135,Dr. Dana Jennings,Pulmonologist,Fortis Wellness Center
+136,Dr. Alexander Ferguson,Endocrinologist,Metro Health Institute
+137,Dr. Gary Russell,Cardiologist,Sunrise Multispeciality
+138,Dr. Frank Foster,Cardiologist,Lakeview Medical Center
+139,Dr. Dylan Brown,Endocrinologist,Sunrise Multispeciality
+140,Dr. Trevor Ross,Cardiologist,Apollo Care Hospital
+141,Dr. Sherri Gray,Neurologist,Metro Health Institute
+142,Dr. Lauren Stone,Endocrinologist,Sunrise Multispeciality
+143,Dr. David Jones,Endocrinologist,Fortis Wellness Center
+144,Dr. Matthew Sullivan,Cardiologist,Sunrise Multispeciality
+145,Dr. William Morse,Cardiologist,Apollo Care Hospital
+146,Dr. John Molina,Pulmonologist,Fortis Wellness Center
+147,Dr. Travis Hubbard,General Physician,Fortis Wellness Center
+148,Dr. John Andrews,General Physician,Metro Health Institute
+149,Dr. Craig Harris,Endocrinologist,Lakeview Medical Center
+150,Dr. Amanda Rose MD,Orthopedic,Lakeview Medical Center
+151,Dr. Jessica Berry,Orthopedic,Lakeview Medical Center
+152,Dr. Sandra Haney,General Physician,City General Hospital
+153,Dr. Alexander Weeks,General Physician,Apollo Care Hospital
+154,Dr. Edward Duffy,Neurologist,Sunrise Multispeciality
+155,Dr. Felicia Vargas,General Physician,Metro Health Institute
+156,Dr. Darren Hall,Pulmonologist,City General Hospital
+157,Dr. Elizabeth Cunningham,Orthopedic,Lakeview Medical Center
+158,Dr. Michael Peterson,General Physician,Fortis Wellness Center
+159,Dr. Crystal Duke,Cardiologist,City General Hospital
+160,Dr. Michael Cardenas,Cardiologist,Apollo Care Hospital
+161,Dr. Heather Meadows,Cardiologist,Lakeview Medical Center
+162,Dr. Nicole Collins,General Physician,Metro Health Institute
+163,Dr. Laurie White,Cardiologist,Apollo Care Hospital
+164,Dr. Veronica Lewis,Endocrinologist,Lakeview Medical Center
+165,Dr. Brian Singh,General Physician,Apollo Care Hospital
+166,Dr. Ronald Young,Pulmonologist,Metro Health Institute
+167,Dr. Cindy Bradley MD,Endocrinologist,Apollo Care Hospital
+168,Dr. Thomas Nelson,Cardiologist,Lakeview Medical Center
+169,Dr. Nathan Hickman Jr.,General Physician,Metro Health Institute
+170,Dr. Kristin Bailey,Endocrinologist,Sunrise Multispeciality
+171,Dr. Shannon Booker,Dermatologist,Sunrise Multispeciality
+172,Dr. Marc Glenn,General Physician,Fortis Wellness Center
+173,Dr. Jasmine Chavez,Neurologist,Apollo Care Hospital
+174,Dr. Michael Ritter,Orthopedic,Apollo Care Hospital
+175,Dr. Denise Gonzalez,Neurologist,City General Hospital
+176,Dr. Phillip Lowery,General Physician,Apollo Care Hospital
+177,Dr. Timothy Jordan,Endocrinologist,City General Hospital
+178,Dr. Justin Garcia,Cardiologist,Fortis Wellness Center
+179,Dr. Samantha Ford,Endocrinologist,Apollo Care Hospital
+180,Dr. Stanley Martinez,Pulmonologist,Metro Health Institute
+181,Dr. Alexander Terry,Endocrinologist,Sunrise Multispeciality
+182,Dr. Lisa Michael,Cardiologist,Apollo Care Hospital
+183,Dr. Dennis Turner,Cardiologist,Sunrise Multispeciality
+184,Dr. Kevin Benson,Endocrinologist,City General Hospital
+185,Dr. Brian Phillips,General Physician,Fortis Wellness Center
+186,Dr. Maria Ward,General Physician,City General Hospital
+187,Dr. Shane Greene,Neurologist,Apollo Care Hospital
+188,Dr. Matthew Alvarez,Neurologist,City General Hospital
+189,Dr. Annette Weaver,Pulmonologist,Fortis Wellness Center
+190,Dr. Troy Aguilar,Pulmonologist,Sunrise Multispeciality
+191,Dr. Frank Munoz,Endocrinologist,Lakeview Medical Center
+192,Dr. Amy Johnson,Cardiologist,Sunrise Multispeciality
+193,Dr. Jean Brown,General Physician,Sunrise Multispeciality
+194,Dr. Bobby Mullen,Cardiologist,Lakeview Medical Center
+195,Dr. Mary Brady,Neurologist,Fortis Wellness Center
+196,Dr. Gabriel Jones,Cardiologist,Metro Health Institute
+197,Dr. Kevin Lee,General Physician,Lakeview Medical Center
+198,Dr. David Wise,Pulmonologist,Lakeview Medical Center
+199,Dr. Kayla Taylor,Endocrinologist,Apollo Care Hospital
+200,Dr. David Williams,General Physician,Fortis Wellness Center
