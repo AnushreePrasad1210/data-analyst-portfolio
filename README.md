@@ -22,13 +22,6 @@ and Power BI executive dashboarding.
 | **Tools & AI** | Jupyter Notebook, VS Code, MySQL Workbench, Git, GitHub, AI-Assisted Research & Workflow Acceleration |
 
 
-What Was Updated & Why
-
-• Added Matplotlib, Seaborn & Tableau: Aligns your GitHub skills table with your new Agri-Food Commodity charts and Deloitte Virtual Simulation dashboard.
-• Added Statistics & Concepts: Highlights Volatility & Seasonality Analysis, Forecast Backtesting (MAPE), and Anomaly Detection right at the top of your portfolio.
-• Added Tools & AI: Signals familiarity with Jupyter, Git/GitHub, and modern AI-assisted analytical workflows.
-Once you paste this into your main README.md and commit your changes, your Resume, LinkedIn, and GitHub will be 100% synchronized. Would you like to start preparing likely interview questions for your Softobiz application next?
-
 ---
 
 ## 📁 Projects
