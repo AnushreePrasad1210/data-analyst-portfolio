@@ -171,6 +171,25 @@ CO₂ emissions are trending in the right direction.
 - **Location:** Thiruvananthapuram, Kerala, India
 
 ---
+### Project 4: Global Food & Agri Commodity Price Analysis (2016–2026)
+**Stack:** Python (Pandas, NumPy, Matplotlib, Seaborn), Power BI Desktop, Excel (World Bank Pink Sheet)
+
+**Business Problem:** Supply chain teams, procurement analysts, and commodity stakeholders need to understand long-term price behavior, volatility, seasonal cycles, and realistic short-term price risk across major global food and agricultural benchmarks.
+
+**What I Built:**
+- Cleaned and standardized 802 monthly records (1960–Oct 2026) from World Bank Commodity Price Data ("The Pink Sheet") across 8 global benchmarks (Rubber, Rice, Wheat, Sugar, Maize, Palm Oil, Kolkata Tea, and Coconut Oil) with a documented Excel source log
+- Resolved heterogeneous pricing units (`$/mt` vs. `$/kg`) by converting raw series into percentage changes and indexed baselines for accurate cross-commodity comparison
+- Investigated a major June 2020 (+87%) price spike in Kolkata Tea by benchmarking it against a 3-auction tea average to separate localized auction anomalies from broader market trends
+- Executed a rolling 6-month forecast backtest (Oct 2021 – Apr 2026) across three baseline methods measured by MAPE, generating April 2027 outlook ranges using 10th–90th percentile historical error bounds
+- Built a 2-page interactive Power BI dashboard and authored a 1-page executive market brief summarizing price movements, seasonality, and forecast uncertainty
+
+**Key Findings:**
+- **Strong YoY Divergence (Oct 2026 vs. Oct 2025):** Rubber (+42%), Rice (+37%), and Wheat (+37%) posted steep annual gains, whereas Coconut Oil (-20%) and Kolkata Tea (-11%) declined
+- **Volatility Hierarchy:** Kolkata Tea was the most volatile benchmark over 10 years (17.9% monthly std. dev., vs. 5.2% for the 3-auction tea average), while Rice was the steadiest (5.3%)
+- **Pronounced Tea Seasonality:** From 2016–2025, Kolkata Tea averaged 32% below its annual mean in March and 23% above it in July, whereas other commodities stayed within ±7% of their yearly averages
+- **Forecast Backtest & Outlook:** A simple unchanged-price baseline was hardest to beat for most commodities, except Kolkata Tea where a seasonal model cut 6-month forecast MAPE from 33% to 12%; Rice is projected around $489/mt by April 2027 with a likely range of $399–$592/mt
+
+---
 
 *All projects built independently as part of a structured 
 self-directed learning program targeting 
