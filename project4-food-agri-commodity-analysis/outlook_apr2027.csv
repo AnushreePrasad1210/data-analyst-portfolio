@@ -1,0 +1,10 @@
+Commodity,Latest (Oct 2026),Method used,Forecast (Apr 2027),Likely low,Likely high
+Rice,489.0,Naive,489.0,399.15,592.02
+Wheat,317.0,Naive,317.0,266.7,389.29
+Maize,226.5,Naive,226.5,183.02,261.07
+Sugar,0.43,Naive,0.43,0.36,0.53
+Palm_Oil,1120.0,Naive,1120.0,873.96,1327.96
+Coconut_Oil,2029.0,Naive,2029.0,1472.79,2787.69
+Tea,2.55,Seasonal naive,2.37,2.0,2.85
+Rubber,2.83,Naive,2.83,2.38,3.72
+Tea_3Auction_Avg,2.88,12m average,2.87,2.61,3.41
