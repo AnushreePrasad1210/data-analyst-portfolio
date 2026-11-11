@@ -163,14 +163,6 @@ CO₂ emissions are trending in the right direction.
 - `screenshots/` — Dashboard screenshots
 
 ---
-
-## 📬 Contact
-
-- **LinkedIn:** [linkedin.com/in/anushreeprasad](#) 
-- **Email:** *anushreeanu703@gmail.com*
-- **Location:** Thiruvananthapuram, Kerala, India
-
----
 ### Project 4: Global Food & Agri Commodity Price Analysis (2016–2026)
 **Stack:** Python (Pandas, NumPy, Matplotlib, Seaborn), Power BI Desktop, Excel (World Bank Pink Sheet)
 
@@ -188,6 +180,15 @@ CO₂ emissions are trending in the right direction.
 - **Volatility Hierarchy:** Kolkata Tea was the most volatile benchmark over 10 years (17.9% monthly std. dev., vs. 5.2% for the 3-auction tea average), while Rice was the steadiest (5.3%)
 - **Pronounced Tea Seasonality:** From 2016–2025, Kolkata Tea averaged 32% below its annual mean in March and 23% above it in July, whereas other commodities stayed within ±7% of their yearly averages
 - **Forecast Backtest & Outlook:** A simple unchanged-price baseline was hardest to beat for most commodities, except Kolkata Tea where a seasonal model cut 6-month forecast MAPE from 33% to 12%; Rice is projected around $489/mt by April 2027 with a likely range of $399–$592/mt
+
+---
+
+## 📬 Contact
+
+- **LinkedIn:** [linkedin.com/in/anushreeprasad](#) 
+- **Email:** *anushreeanu703@gmail.com*
+- **Location:** Thiruvananthapuram, Kerala, India
+
 
 ---
 
