@@ -187,7 +187,7 @@ CO₂ emissions are trending in the right direction.
 
 ## 📬 Contact
 
-- **LinkedIn:** [linkedin.com/in/anushreeprasad](#) 
+- **LinkedIn:** [https://linkedin.com/in/anushreeprasad](#) 
 - **Email:** *anushreeanu703@gmail.com*
 - **Location:** Thiruvananthapuram, Kerala, India
 
