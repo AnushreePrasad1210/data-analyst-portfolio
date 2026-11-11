@@ -12,13 +12,22 @@ and Power BI executive dashboarding.
 ## 🛠️ Core Technical Skills
 
 | Category | Tools & Technologies |
-|---|---|
-| **Languages** | Python (Pandas, NumPy, Faker, SQLAlchemy), SQL |
-| **Databases** | MySQL, SQLite |
-| **Visualization** | Power BI Desktop, Microsoft Excel Online |
-| **SQL Techniques** | Window Functions (RANK, LAG), CTEs, Multi-table JOINs, Subqueries |
-| **Excel** | IFS, XLOOKUP, INDEX/MATCH, PERCENTRANK, Pivot Tables, Data Validation |
-| **Concepts** | ETL Pipelines, Relational Data Modeling, EDA, KPI Design, Dashboard UX |
+| :--- | :--- |
+| **Languages & Libraries** | Python (`Pandas`, `NumPy`, `Matplotlib`, `Seaborn`, `SQLAlchemy`), SQL |
+| **Databases** | MySQL, SQLite, SQL Server |
+| **BI & Visualization** | Power BI Desktop (DAX, Data Modeling, KPI Dashboards), Tableau, Microsoft Excel |
+| **SQL Techniques** | Window Functions (`RANK`, `LAG`), CTEs, Multi-table `JOIN`s, Subqueries, Aggregations |
+| **Excel** | `IFS`, `XLOOKUP`, `INDEX/MATCH`, `PERCENTRANK`, Pivot Tables, Data Validation, Source Logging |
+| **Statistics & Concepts** | ETL Pipelines, Relational Data Modeling, EDA, Volatility & Seasonality Analysis, Forecast Backtesting (MAPE), Anomaly Detection, KPI Design |
+| **Tools & AI** | Jupyter Notebook, VS Code, MySQL Workbench, Git, GitHub, AI-Assisted Research & Workflow Acceleration |
+
+
+What Was Updated & Why
+
+• Added Matplotlib, Seaborn & Tableau: Aligns your GitHub skills table with your new Agri-Food Commodity charts and Deloitte Virtual Simulation dashboard.
+• Added Statistics & Concepts: Highlights Volatility & Seasonality Analysis, Forecast Backtesting (MAPE), and Anomaly Detection right at the top of your portfolio.
+• Added Tools & AI: Signals familiarity with Jupyter, Git/GitHub, and modern AI-assisted analytical workflows.
+Once you paste this into your main README.md and commit your changes, your Resume, LinkedIn, and GitHub will be 100% synchronized. Would you like to start preparing likely interview questions for your Softobiz application next?
 
 ---
 
